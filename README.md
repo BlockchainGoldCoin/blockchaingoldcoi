@@ -3,7 +3,7 @@ Blockchaingoldcoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/blockchaingoldcoin-project/blockchaingoldcoin.svg?branch=master)](https://travis-ci.org/blockchaingoldcoin-project/blockchaingoldcoin)
 
-https://blockchaingoldcoin.org
+https://blockchaingoldcoin.com
 
 What is Blockchaingoldcoin?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. Blockchaingoldcoin Core is the name of open sou
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Blockchaingoldcoin Core software, see [https://blockchaingoldcoin.org](https://blockchaingoldcoin.org).
+the Blockchaingoldcoin Core software, see [https://blockchaingoldcoin.com](https://blockchaingoldcoin.org).
 
 License
 -------
